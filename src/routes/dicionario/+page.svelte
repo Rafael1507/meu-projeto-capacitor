@@ -31,7 +31,6 @@
   </script>
   
   <style global>
-    /* Plano de fundo escuro e fonte clara */
     body {
       background-color: #121212;
       color: #f8f9fa;
@@ -40,7 +39,6 @@
     a {
       text-decoration: none;
     }
-    /* Scrollbar customizada */
     ::-webkit-scrollbar {
       width: 8px;
     }
