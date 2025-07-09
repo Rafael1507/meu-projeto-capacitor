@@ -101,7 +101,7 @@ Aqui, a função recebe um número e retorna o dobro.</p>
 
 <hr />
 
-<h2>🧠 Recapitulando</h2>
+<h2>Recapitulando</h2>
 <ul>
   <li>Funções evitam repetir código.</li>
   <li>Você pode criar uma função com <code>function</code> ou com <code>=></code> (arrow function).</li>
