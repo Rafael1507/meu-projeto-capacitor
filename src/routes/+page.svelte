@@ -12,8 +12,10 @@
     <nav class="nav-buttons">
     <a class="btn" href="/area">Conversor de Área</a>
     <a class="btn" href="/comprimento">Conversor de Comprimento</a>
-    <a class="btn" href="/pixels">Conversor de Pixels para Polegadas</a>
   </nav>
+
+      <h1>WIKI</h1>
+    <a class="btn" href="/wiki">Entrar para Wiki</a>
 </center>
 </main>
 
